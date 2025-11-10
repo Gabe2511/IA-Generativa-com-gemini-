@@ -1,0 +1,1 @@
+Projeto com IA generativa do Gemini, utilizei uma chave api diretamente da minha conta no gemini, onde eu posso modifica-lá ao qualquer momento. Esse projeto é basicamente uma IA que ajuda em qualquer situação que você precisar, estou utilizando ela em meu projeto pessoal e acadêmico, onde eu integrei para utilizar e auxiliar nas minhas ativiades.
